@@ -19,3 +19,8 @@ Four Chosen Requirements that this Project Fulfills:
 <Streams and Lambda Expressions><The Data Wrangler will use Stream to load the data into the hash table. Then everyone can try to use lambda expression somewhere in their code, probably will relate more to the Data Wrangler and Front End Developers. And since there might be multiple people using lambda expression, there will not be a specific functionality limited to the use of lambda expression in this application>
 	
 <CSV, XML, or JSON formatted file>: <the Data Wrangler will be responsible to store datas of singers’ names and each of their top 3 songs into either one of those data formats. Then, the Data Wrangler will also be writing a loading class with loading methods to load that data into the application>
+	
+
+
+## My Project Role:
+Test Engineer
